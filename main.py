@@ -1,6 +1,8 @@
 
 
 def main():
+    # read the input video 
+    video_frames = read_video('input_videos/video.mp4')
     
 
 
